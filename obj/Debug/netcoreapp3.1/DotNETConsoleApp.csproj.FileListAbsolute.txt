@@ -1,0 +1,12 @@
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/bin/Debug/netcoreapp3.1/DotNETConsoleApp.deps.json
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/bin/Debug/netcoreapp3.1/DotNETConsoleApp.runtimeconfig.json
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/bin/Debug/netcoreapp3.1/DotNETConsoleApp.runtimeconfig.dev.json
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/bin/Debug/netcoreapp3.1/DotNETConsoleApp.dll
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/bin/Debug/netcoreapp3.1/DotNETConsoleApp.pdb
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.csprojAssemblyReference.cache
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.AssemblyInfoInputs.cache
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.AssemblyInfo.cs
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.dll
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.pdb
+/Users/vijayaraghavansundararaman/Github/DotNETConsoleApp/obj/Debug/netcoreapp3.1/DotNETConsoleApp.genruntimeconfig.cache
